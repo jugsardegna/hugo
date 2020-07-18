@@ -1,0 +1,20 @@
+[en]
+  title = "JugSardegna"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[it]
+  title = "JugSardegna"
+  languageName = "Italiano"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/it"
+
+[sr]
+  title = "JugSardegna"
+  languageName = "Sardo"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/sr"
