@@ -1,0 +1,4 @@
+baseURL = "https://jugsardegna.github.io"
+languageCode = "en-us"
+title = "Jug Sardegna"
+theme = "zzo"
